@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash 
 =======
 #!/bin/bash
 >>>>>>> master
+=======
+>>>>>>> 64c303afdcfba94a10cec5ee5941f1666794d728
 echo "The school is open!"
